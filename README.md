@@ -5,7 +5,7 @@
 
 ## 構成図
 
-![構成図](diagram.png.pdf)
+[構成図](AWS.drawio.pdf)
 
 ## できること
 
