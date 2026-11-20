@@ -5,7 +5,7 @@
 
 ## 構成図
 
-![構成図](AWS.drawio.png)
+![構成図](docs/AWS.drawio.png)
 
 ## できること
 
